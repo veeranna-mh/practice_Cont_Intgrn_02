@@ -16,4 +16,4 @@ def test_predict(client):
     assert resp.status_code == 200
     assert resp.json=={'loan_approval_status': 'Rejected'}
 
-# haha... its working...
+# haha... its working... laaaaa   llaaaaa  lllaaaaa 
